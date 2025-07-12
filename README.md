@@ -11,8 +11,8 @@
 
 ### 🧠 About Me
 
-- 🔭 I'm a 3rd-year B.Tech student at **IIIT Naya Raipur** (2022–2026)
-- 🌱 Currently exploring **Cloud Security**, **Full Stack Development**, and **AI Applications**
+- 🔭 I'm a 4th-year B.Tech student at **IIIT Naya Raipur** (2022–2026)
+- 🌱 Currently exploring **Data Science**, **Full Stack Development**, and **AI Applications**
 - 💬 Ask me about: `ReactJS`, `Node.js`, `Python`, `Cryptography`, `Flutter`
 - 🛠️ Passionate about building scalable web apps and secure cloud systems
 - 📫 Reach me at **vaibhav22102@iiitnr.edu.in**
