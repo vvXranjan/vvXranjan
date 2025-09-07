@@ -1,25 +1,25 @@
 <h1 align="center">Hi, I'm Vaibhav Vikas Ranjan 👋</h1>
-<h3 align="center">B.Tech | Data Science & Artificial Intelligence | Full-Stack Developer | Cloud Security Researcher</h3>
+<h3 align="center">B.Tech | Data Science & Artificial Intelligence | Software Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:vaibhav22102@iiitnr.edu.in"><img src="https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/vaibhavvranjan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/vvXranjan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:vaibhav22102@iiitnr.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/vaibhavvranjan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/vvXranjan" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🔭 I'm a 4th-year B.Tech student at **IIIT Naya Raipur** (2022–2026)
-- 🌱 Currently exploring **Data Science**, **Full Stack Development**, and **AI Applications**
-- 💬 Ask me about: `ReactJS`, `Node.js`, `Python`, `Cryptography`, `Flutter`
-- 🛠️ Passionate about building scalable web apps and secure cloud systems
+- 🎓 Final-year B.Tech student at **IIIT Naya Raipur** (2022–2026)  
+- 💻 Experienced in **software development**, **data science**, and **AI applications**  
+- 🔭 Built projects in **healthcare analytics**, **cloud security**, and **AI-driven automation**  
+- 💬 Ask me about: `ReactJS`, `Python`, `Flask`, `TensorFlow`, `Cloud Security`  
 - 📫 Reach me at **vaibhav22102@iiitnr.edu.in**
 
 ---
 
-### 🔥 My Tech Toolbox
+### 🔥 Tech Toolbox
 
 **Languages**  
 `C/C++` • `Python` • `JavaScript` • `Java`
@@ -27,43 +27,41 @@
 **Frontend & App Dev**  
 `ReactJS` • `HTML/CSS` • `Tailwind` • `Flutter`
 
-**Backend & DB**  
-`Node.js` • `Django` • `MySQL` • `PostgreSQL` • `MongoDB`
+**Backend & Databases**  
+`Node.js` • `Flask` • `Django` • `MySQL` • `PostgreSQL` • `MongoDB`
+
+**AI/ML & Data**  
+`TensorFlow` • `PyTorch` • `Scikit-learn` • `LangChain` • `Tableau` • `BigQuery`
 
 **Tools & Platforms**  
 `Git` • `GitHub` • `Firebase` • `AWS S3` • `Linux` • `VS Code`
 
 ---
 
-### 🧪 Projects
+### 🧪 Featured Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🔐 Data Integrity Checker (AWS S3)](https://github.com/vvXranjan/Data-Integrity-check-in-cloud-S3) | A cryptographic framework ensuring client-side data integrity using AES-256 & SHA-256. | Python • AWS S3 |
-| [📈 Stock Price Predictor](https://github.com/vvXranjan/stock_market_prediction) | Intraday price movement predictor using SMA/EMA & LSTM/SVM. | Python • Scikit-learn |
+| [🔐 Data Integrity Checker (AWS S3)](https://github.com/vvXranjan/Data-Integrity-check-in-cloud-S3) | Client-side data integrity with AES-256 & SHA-256. | Python • AWS S3 |
+| [📈 Stock Price Predictor](https://github.com/vvXranjan/stock_market_prediction) | Predicts intraday stock price movements using SMA/EMA + LSTM/SVM. | Python • Scikit-learn • LSTM |
 | [🧠 AI Doubt Solver App](https://drive.google.com/file/d/1n-mgQfEa9X2MnfbIlz2THAoAtEjz6Its/view) | Flutter app using ChatGPT API for real-time academic doubt resolution. | Flutter • AIML |
-| [🕸️ Web Scraper Optimizer](https://github.com/vvXranjan/Web_scraping) | OOP-based modular web scraping tool for efficiency and reusability. | Python • BeautifulSoup |
+| [🕸️ Web Scraper Optimizer](https://github.com/vvXranjan/Web_scraping) | Modular OOP-based scraping assistant for scalable data extraction. | Python • BeautifulSoup |
 
 ---
 
-### 📚 Coursework
+### 📚 Relevant Coursework
 
-- **Core CS:** Data Structures, OOP, DBMS, OS, CN  
-- **Mathematics:** Discrete Math, Linear Algebra, Optimization Techniques
+- **CS Core:** Data Structures, OOP, DBMS, Computer Vision, NLP  
+- **AI/ML:** Machine Learning, Deep Learning, Reinforcement Learning, Time Series Analysis  
+- **Math:** Linear Algebra, Probability, Optimization Techniques  
 
 ---
 
 ### 🎯 Achievements
 
-- 📍 Published in **IATMSI 2024** for web-page linker optimization using OOP
-- 🥇 Completed foundational certifications in ML, Digital Marketing & Cybersecurity
-
----
-
-### 🏆 Extra Responsibilities
-
-- 🧠 **Core Member** — Outlook Management, Technovate ’24  
-- ⚽ **Team Lead** — Sports Fest Aarambh ’24
+- 📍 Published research in **IEEE (IATMSI 2024)** — Web automation framework using OOP  
+- 🏆 Internships: Software Developer Intern @ Taskar (Healthcare Analytics) & Full-Stack Intern @ RDSO  
+- 🥇 Leadership roles: Team Lead (90+ members) Aarambh’24 • Core Member, Technovate’24  
 
 ---
 
@@ -78,7 +76,7 @@
 
 ### 🚀 Let’s Connect!
 
-> I’m always excited to collaborate on meaningful projects or research. Feel free to [email me](mailto:vaibhav22102@iiitnr.edu.in) or connect on [LinkedIn](https://www.linkedin.com/in/vaibhavvranjan/).  
+> Always open to opportunities in **Software Engineering, Data Science, or AI Engineering**.  
+> Reach out via [email](mailto:vaibhav22102@iiitnr.edu.in) or connect on [LinkedIn](https://www.linkedin.com/in/vaibhavvranjan/).  
 
 ---
-
