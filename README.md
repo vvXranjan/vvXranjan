@@ -44,7 +44,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔧 **Welding Anomaly Detection (PatchCore PoC) https://github.com/vvXranjan/welding-anomaly-detection-poc| Industry-style PoC for automated weld defect detection using unsupervised anomaly detection with explainable heatmaps and threshold-based decisions. | Python • PyTorch • Anomalib • OpenCV |
+| [🔧 Welding Anomaly Detection (PatchCore PoC) ](https://github.com/vvXranjan/welding-anomaly-detection-poc)| Industry-style PoC for automated weld defect detection using unsupervised anomaly detection with explainable heatmaps and threshold-based decisions. | Python • PyTorch • Anomalib • OpenCV |
 | [🔐 Data Integrity Checker (AWS S3)](https://github.com/vvXranjan/Data-Integrity-check-in-cloud-S3) | Client-side data integrity verification using AES-256 encryption and SHA-256 hashing for secure cloud storage. | Python • AWS S3 |
 | [📈 Stock Price Predictor](https://github.com/vvXranjan/stock_market_prediction) | Predicts intraday stock price movements using technical indicators with ML and deep learning models. | Python • Scikit-learn • LSTM |
 | [🧠 AI Doubt Solver App](https://drive.google.com/file/d/1n-mgQfEa9X2MnfbIlz2THAoAtEjz6Its/view) | Mobile app enabling real-time academic doubt resolution using conversational AI. | Flutter • AI/ML |
