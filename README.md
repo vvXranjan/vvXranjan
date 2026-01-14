@@ -40,12 +40,16 @@
 
 ### 🧪 Featured Projects
 
+## 🚀 Projects
+
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [🔐 Data Integrity Checker (AWS S3)](https://github.com/vvXranjan/Data-Integrity-check-in-cloud-S3) | Client-side data integrity with AES-256 & SHA-256. | Python • AWS S3 |
-| [📈 Stock Price Predictor](https://github.com/vvXranjan/stock_market_prediction) | Predicts intraday stock price movements using SMA/EMA + LSTM/SVM. | Python • Scikit-learn • LSTM |
-| [🧠 AI Doubt Solver App](https://drive.google.com/file/d/1n-mgQfEa9X2MnfbIlz2THAoAtEjz6Its/view) | Flutter app using ChatGPT API for real-time academic doubt resolution. | Flutter • AIML |
-| [🕸️ Web Scraper Optimizer](https://github.com/vvXranjan/Web_scraping) | Modular OOP-based scraping assistant for scalable data extraction. | Python • BeautifulSoup |
+| 🔧 **Welding Anomaly Detection (PatchCore PoC)** | Industry-style PoC for automated weld defect detection using unsupervised anomaly detection with explainable heatmaps and threshold-based decisions. | Python • PyTorch • Anomalib • OpenCV |
+| [🔐 Data Integrity Checker (AWS S3)](https://github.com/vvXranjan/Data-Integrity-check-in-cloud-S3) | Client-side data integrity verification using AES-256 encryption and SHA-256 hashing for secure cloud storage. | Python • AWS S3 |
+| [📈 Stock Price Predictor](https://github.com/vvXranjan/stock_market_prediction) | Predicts intraday stock price movements using technical indicators with ML and deep learning models. | Python • Scikit-learn • LSTM |
+| [🧠 AI Doubt Solver App](https://drive.google.com/file/d/1n-mgQfEa9X2MnfbIlz2THAoAtEjz6Its/view) | Mobile app enabling real-time academic doubt resolution using conversational AI. | Flutter • AI/ML |
+| [🕸️ Web Scraper Optimizer](https://github.com/vvXranjan/Web_scraping) | Modular, OOP-based web scraping assistant designed for scalable and maintainable data extraction. | Python • BeautifulSoup |
+
 
 ---
 
