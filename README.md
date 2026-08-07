@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <a href="mailto:vaibhav22102@iiitnr.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:vaivikran@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vaibhavvranjan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/vvXranjan" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://portfolio-me-d3a0.vercel.app/" target="_blank">
@@ -51,13 +51,17 @@
 
 ## 🚀 Projects
 
+## 🚀 Featured Projects
+
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🔧 Welding Anomaly Detection (PatchCore PoC) ](https://github.com/vvXranjan/welding-anomaly-detection-poc)| Industry-style PoC for automated weld defect detection using unsupervised anomaly detection with explainable heatmaps and threshold-based decisions. | Python • PyTorch • Anomalib • OpenCV |
-| [🔐 Data Integrity Checker (AWS S3)](https://github.com/vvXranjan/Data-Integrity-check-in-cloud-S3) | Client-side data integrity verification using AES-256 encryption and SHA-256 hashing for secure cloud storage. | Python • AWS S3 |
-| [📈 Stock Price Predictor](https://github.com/vvXranjan/stock_market_prediction) | Predicts intraday stock price movements using technical indicators with ML and deep learning models. | Python • Scikit-learn • LSTM |
-| [🧠 AI Doubt Solver App](https://drive.google.com/file/d/1n-mgQfEa9X2MnfbIlz2THAoAtEjz6Its/view) | Mobile app enabling real-time academic doubt resolution using conversational AI. | Flutter • AI/ML |
-| [🕸️ Web Scraper Optimizer](https://github.com/vvXranjan/Web_scraping) | Modular, OOP-based web scraping assistant designed for scalable and maintainable data extraction. | Python • BeautifulSoup |
+|---------|-------------|------------|
+| [⚖️ CFR Compliance Checker](https://github.com/vvXranjan/cfr-compliance-mcp) | Agentic AI compliance system with a custom MCP server, RAG pipeline, and LLM-powered contract auditing for U.S. federal regulations. | Python • FastMCP • Agno • Ollama • Pydantic |
+| [🔧 Welding Anomaly Detection (PatchCore PoC)](https://github.com/vvXranjan/welding-anomaly-detection-poc) | Industrial computer vision PoC for unsupervised weld defect detection using PatchCore with explainable anomaly heatmaps. | Python • PyTorch • Anomalib • OpenCV |
+| [📄 Smart ATS Resume Matcher](https://github.com/vvXranjan/Smart-ATS) | AI-powered ATS engine combining semantic embeddings and keyword scoring to analyze resume-job compatibility with explainable insights. | Python • FastAPI • Streamlit • SentenceTransformers |
+| [🔐 Data Integrity Checker (AWS S3)](https://github.com/vvXranjan/Data-Integrity-check-in-cloud-S3) | Secure cloud storage verification using AES-256 encryption and SHA-256 hashing for client-side data integrity validation. | Python • AWS S3 • Cryptography |
+| [📈 Stock Price Predictor](https://github.com/vvXranjan/stock_market_prediction) | Predicts stock price movements using technical indicators and machine learning/deep learning models. | Python • Scikit-learn • LSTM |
+| [🧠 AI Doubt Solver App](https://drive.google.com/file/d/1n-mgQfEa9X2MnfbIlz2THAoAtEjz6Its/view) | Flutter application enabling conversational AI for real-time academic doubt resolution. | Flutter • AI/ML |
+| [🕸️ Web Scraper Optimizer](https://github.com/vvXranjan/Web_scraping) | Modular, object-oriented web scraping framework built for scalable and maintainable data extraction workflows. | Python • BeautifulSoup |
 
 
 ---
