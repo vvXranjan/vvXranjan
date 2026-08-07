@@ -1,5 +1,8 @@
-<h1 align="center">Hi, I'm Vaibhav Vikas Ranjan 👋</h1>
-<h3 align="center">B.Tech | Data Science & Artificial Intelligence | Software Developer | AI/ML Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Vaibhav Vikas Ranjan</h1>
+
+<h3 align="center">
+🚀 AI Engineer | LLMs • Agentic AI • RAG • Computer Vision • Full-Stack Development
+</h3>
 
 <p align="center">
   <a href="mailto:vaibhav22102@iiitnr.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -11,32 +14,36 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 🎓 Final-year B.Tech student at **IIIT Naya Raipur** (2022–2026)  
-- 💻 Experienced in **software development**, **data science**, and **AI applications**  
-- 🔭 Built projects in **healthcare analytics**, **cloud security**, and **AI-driven automation**  
-- 💬 Ask me about: `ReactJS`, `Python`, `Flask`, `TensorFlow`, `Cloud Security`  
+- 🎓 B.Tech in Data Science & Artificial Intelligence at **IIIT Naya Raipur** (2022–2026)
+- 🤖 AI Engineer with experience building **LLMs, Agentic AI, RAG pipelines, and enterprise AI applications**
+- 💼 Worked on **Generative AI, cybersecurity, healthcare analytics, anomaly detection, and full-stack development**
+- 🚀 Passionate about building scalable AI systems that solve real-world problems
+- 💬 Ask me about: `Python`, `LLMs`, `Agentic AI`, `RAG`, `FastAPI`, `React`, `PyTorch`, `TensorFlow`
 - 📫 Reach me at **vaivikran@gmail.com**
 
 ---
 
-### 🔥 Tech Toolbox
+## 🛠️ Tech Toolbox
 
-**Languages**  
-`C/C++` • `Python` • `JavaScript` • `Java`
+### 💻 Languages
+`Python` • `C++` • `JavaScript` • `SQL` • `HTML/CSS`
 
-**Frontend & App Dev**  
-`ReactJS` • `HTML/CSS` • `Tailwind` • `Flutter`
+### 🤖 AI / Machine Learning
+`PyTorch` • `TensorFlow` • `Scikit-learn` • `OpenCV` • `LangChain` • `LangGraph` • `MCP` • `RAG` • `LLMs` • `Prompt Engineering`
 
-**Backend & Databases**  
-`Node.js` • `Flask` • `Django` • `MySQL` • `PostgreSQL` • `MongoDB`
+### ⚙️ Backend & APIs
+`FastAPI` • `Flask` • `Node.js` • `REST APIs` • `Chainlit`
 
-**AI/ML & Data**  
-`TensorFlow` • `PyTorch` • `Scikit-learn` • `LangChain` • `Tableau` • `BigQuery`
+### 🎨 Frontend
+`React.js` • `Tailwind CSS` • `Flutter`
 
-**Tools & Platforms**  
-`Git` • `GitHub` • `Firebase` • `AWS S3` • `Linux` • `VS Code`
+### 🗄️ Databases
+`PostgreSQL` • `MongoDB` • `MySQL` • `ChromaDB`
+
+### ☁️ Tools & Platforms
+`Docker` • `AWS` • `Git` • `GitHub` • `Streamlit` • `Tableau` • `Hugging Face` • `Linux`
 
 ---
 
@@ -55,11 +62,16 @@
 
 ---
 
-### 📚 Relevant Coursework
+## 📚 Relevant Coursework
 
-- **CS Core:** Data Structures, OOP, DBMS, Computer Vision, NLP  
-- **AI/ML:** Machine Learning, Deep Learning, Reinforcement Learning, Time Series Analysis  
-- **Math:** Linear Algebra, Probability, Optimization Techniques  
+### 🧑‍💻 Computer Science
+`Data Structures & Algorithms` • `Object-Oriented Programming` • `Database Management Systems` • `Operating Systems` • `Computer Networks`
+
+### 🤖 Artificial Intelligence
+`Machine Learning` • `Deep Learning` • `Natural Language Processing` • `Computer Vision` • `Generative AI`
+
+### 📊 Mathematics
+`Linear Algebra` • `Probability & Statistics` • `Calculus` • `Optimization Techniques`
 
 ---
 
