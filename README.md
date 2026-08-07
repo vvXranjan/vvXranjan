@@ -5,9 +5,8 @@
   <a href="mailto:vaibhav22102@iiitnr.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/vaibhavvranjan/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/vvXranjan" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://portfolio-me-d3a0.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-</a>
+  <a href="https://portfolio-me-d3a0.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
@@ -18,7 +17,7 @@
 - 💻 Experienced in **software development**, **data science**, and **AI applications**  
 - 🔭 Built projects in **healthcare analytics**, **cloud security**, and **AI-driven automation**  
 - 💬 Ask me about: `ReactJS`, `Python`, `Flask`, `TensorFlow`, `Cloud Security`  
-- 📫 Reach me at **vaibhav22102@iiitnr.edu.in**
+- 📫 Reach me at **vaivikran@gmail.com**
 
 ---
 
