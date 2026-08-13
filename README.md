@@ -58,7 +58,8 @@
 | [⚖️ CFR Compliance Checker](https://github.com/vvXranjan/cfr-compliance-mcp) | Agentic AI compliance system with a custom MCP server, RAG pipeline, and LLM-powered contract auditing for U.S. federal regulations. | Python • FastMCP • Agno • Ollama • Pydantic |
 | [🔧 Welding Anomaly Detection (PatchCore PoC)](https://github.com/vvXranjan/welding-anomaly-detection-poc) | Industrial computer vision PoC for unsupervised weld defect detection using PatchCore with explainable anomaly heatmaps. | Python • PyTorch • Anomalib • OpenCV |
 | [📄 Smart ATS Resume Matcher](https://github.com/vvXranjan/Smart-ATS) | AI-powered ATS engine combining semantic embeddings and keyword scoring to analyze resume-job compatibility with explainable insights. | Python • FastAPI • Streamlit • SentenceTransformers |
-| [🔐 Data Integrity Checker (AWS S3)](https://github.com/vvXranjan/Data-Integrity-check-in-cloud-S3) | Secure cloud storage verification using AES-256 encryption and SHA-256 hashing for client-side data integrity validation. | Python • AWS S3 • Cryptography |
+| [🚨 Multi-Agent Incident Response System](https://github.com/vvXranjan/incident-response-engine) | Kafka-based incident response with z-score anomaly detection, MCP sandboxing, and human-approved remediation. | Python • Kafka • MCP • FastAPI • React • Pytest |
+
 | [📈 Stock Price Predictor](https://github.com/vvXranjan/stock_market_prediction) | Predicts stock price movements using technical indicators and machine learning/deep learning models. | Python • Scikit-learn • LSTM |
 | [🧠 AI Doubt Solver App](https://drive.google.com/file/d/1n-mgQfEa9X2MnfbIlz2THAoAtEjz6Its/view) | Flutter application enabling conversational AI for real-time academic doubt resolution. | Flutter • AI/ML |
 | [🕸️ Web Scraper Optimizer](https://github.com/vvXranjan/Web_scraping) | Modular, object-oriented web scraping framework built for scalable and maintainable data extraction workflows. | Python • BeautifulSoup |
