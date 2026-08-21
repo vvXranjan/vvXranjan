@@ -20,14 +20,15 @@
   [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vvXranjan)
 
 </div>
-
-<br>
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="300" height="300" />
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,fastapi,flask,django,pytorch,tensorflow,sklearn,opencv,mysql,postgres,mongodb,docker,aws,git,github,linux,vscode&perline=7)](https://skillicons.dev)
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" />
 
-<br>
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,pandas,pytorch,tensorflow,sklearn,opencv,fastapi,postgres,docker,aws,git,github,linux,vscode&perline=6)](https://skillicons.dev)
+
+**Also working with:** LangChain • LangGraph • MCP • Agno • Chainlit • Streamlit • ChromaDB • Hugging Face • Tableau • NumPy • Matplotlib
+
+<br clear="right"/>
 
 ___
 
