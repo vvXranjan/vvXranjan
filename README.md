@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Vikas Ranjan</h1>
 
 <h3 align="center">
-🚀 AI Engineer | LLMs • Agentic AI • RAG • Computer Vision • Full-Stack Development
+🚀 AI Engineer | LLMs • Agentic AI • Multi-Agent Systems • RAG • Computer Vision
 </h3>
 
 <p align="center">
@@ -17,10 +17,10 @@
 ## 🧠 About Me
 
 - 🎓 B.Tech in Data Science & Artificial Intelligence at **IIIT Naya Raipur** (2022–2026)
-- 🤖 AI Engineer with experience building **LLMs, Agentic AI, RAG pipelines, and enterprise AI applications**
-- 💼 Worked on **Generative AI, cybersecurity, healthcare analytics, anomaly detection, and full-stack development**
-- 🚀 Passionate about building scalable AI systems that solve real-world problems
-- 💬 Ask me about: `Python`, `LLMs`, `Agentic AI`, `RAG`, `FastAPI`, `React`, `PyTorch`, `TensorFlow`
+- 🤖 AI Engineer Intern @ **Accure**, evaluating and governing agentic AI workflows for an enterprise generative AI platform
+- 💼 Built **agentic AI systems** spanning multi-agent orchestration, LLM compliance auditing, event-driven incident response, and RAG pipelines
+- 🚀 Passionate about building scalable, human-gated AI systems that solve real-world problems
+- 💬 Ask me about: `Python`, `LLMs`, `Agentic AI`, `LangGraph`, `MCP`, `RAG`, `FastAPI`, `PyTorch`
 - 📫 Reach me at **vaivikran@gmail.com**
 
 ---
@@ -31,7 +31,7 @@
 `Python` • `C++` • `JavaScript` • `SQL` • `HTML/CSS`
 
 ### 🤖 AI / Machine Learning
-`PyTorch` • `TensorFlow` • `Scikit-learn` • `OpenCV` • `LangChain` • `LangGraph` • `MCP` • `RAG` • `LLMs` • `Prompt Engineering`
+`PyTorch` • `TensorFlow` • `Scikit-learn` • `OpenCV` • `LangChain` • `LangGraph` • `MCP` • `Agno` • `RAG` • `LLMs` • `Prompt Engineering`
 
 ### ⚙️ Backend & APIs
 `FastAPI` • `Flask` • `Node.js` • `REST APIs` • `Chainlit`
@@ -47,21 +47,15 @@
 
 ---
 
-### 🧪 Featured Projects
-
-## 🚀 Projects
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [⚖️ CFR Compliance Checker](https://github.com/vvXranjan/cfr-compliance-mcp) | Agentic AI compliance system with a custom MCP server, RAG pipeline, and LLM-powered contract auditing for U.S. federal regulations. | Python • FastMCP • Agno • Ollama • Pydantic |
-| [🚨 Multi-Agent Incident Response System](https://github.com/vvXranjan/incident-response-engine) | Kafka-based incident response with z-score anomaly detection, MCP sandboxing, and human-approved remediation. | Python • Kafka • MCP • FastAPI • React • Pytest |
-| [📄 Smart ATS Resume Matcher](https://github.com/vvXranjan/Smart-ATS) | AI-powered ATS engine combining semantic embeddings and keyword scoring to analyze resume-job compatibility with explainable insights. | Python • FastAPI • Streamlit • SentenceTransformers |
+| [⚖️ CFR Compliance Checker](https://github.com/vvXranjan/cfr-compliance-mcp) | Agentic contract auditor: a custom MCP server (8 typed tools) over the eCFR API, feeding a deterministic-rules → LLM → verification pipeline that grounds every compliance verdict in retrieved regulatory text. | Python • FastMCP • Agno • Ollama • Pydantic |
+| [🚨Incident Response Engine](https://github.com/vvXranjan/incident-response-engine) | Kafka-based incident response combining a z-score detector with an LOF-based ML anomaly gate, a two-phase Investigator Agent over sandboxed MCP diagnostics, ChromaDB historical retrieval, and Slack/FastAPI human-approved remediation. | Python • Kafka • MCP • ChromaDB • FastAPI • Pytest |
+| [🔀 Multi-Agent Orchestrator: Issue → PR Pipeline](https://github.com/vvXranjan/multi-agent-orchestrator) | LangGraph-based pipeline (Researcher, Planner, Coder, TestWriter, Verifier, PRWriter) that turns a GitHub Issue into a verified Pull Request, with Docker-sandboxed verification and a mandatory human approval gate before any PR is opened. | Python • LangGraph • Docker • GitHub API |
 | [🔧 Welding Anomaly Detection (PatchCore PoC)](https://github.com/vvXranjan/welding-anomaly-detection-poc) | Industrial computer vision PoC for unsupervised weld defect detection using PatchCore with explainable anomaly heatmaps. | Python • PyTorch • Anomalib • OpenCV |
 | [📈 Stock Price Predictor](https://github.com/vvXranjan/stock_market_prediction) | Predicts stock price movements using technical indicators and machine learning/deep learning models. | Python • Scikit-learn • LSTM |
-
-
 
 ---
 
@@ -78,15 +72,15 @@
 
 ---
 
-### 🎯 Achievements
+## 🎯 Achievements
 
-- 📍 Published research in **IEEE (IATMSI 2024)** — Web automation framework using OOP  
-- 🏆 Internships: Software Developer Intern @ Taskar (Healthcare Analytics) & Full-Stack Intern @ RDSO  
-- 🥇 Leadership roles: Team Lead (90+ members) Aarambh’24 • Core Member, Technovate’24  
+- 📍 Published research in **IEEE (IATMSI 2024)** — Web automation framework using OOP
+- 🏆 Internships: AI Engineer Intern @ Accure • Software Developer Intern @ Taskar (Healthcare Analytics) • Software Engineering Intern @ RDSO
+- 🥇 Leadership roles: Team Lead (90+ members) Aarambh'24 • Core Member, Technovate'24
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vvXranjan&show_icons=true&theme=tokyonight" width="48%" />
@@ -95,9 +89,9 @@
 
 ---
 
-### 🚀 Let’s Connect!
+## 🚀 Let's Connect!
 
-> Always open to opportunities in **Software Engineering, Data Science, or AI Engineering**.  
-> Reach out via [email](mailto:vaibhav22102@iiitnr.edu.in) or connect on [LinkedIn](https://www.linkedin.com/in/vaibhavvranjan/).  
+> Always open to opportunities in **AI Engineering, Agentic AI Systems, or Applied ML**.
+> Reach out via [email](mailto:vaivikran@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/vaibhavvranjan/).
 
 ---
