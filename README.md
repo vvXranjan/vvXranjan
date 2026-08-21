@@ -22,7 +22,7 @@
 </div>
 
 <br>
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330" />
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="300" height="300" />
 <br>
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,fastapi,flask,django,pytorch,tensorflow,sklearn,opencv,mysql,postgres,mongodb,docker,aws,git,github,linux,vscode&perline=7)](https://skillicons.dev)
