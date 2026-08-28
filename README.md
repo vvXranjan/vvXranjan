@@ -2,7 +2,7 @@
 </h1>
 
 ```plaintext
-╔════════════════════════ Hey There! ════════════════════════╗ ⚡Vaibhav Vikas Ranjan.   (meowww)
+╔════════════════════════ Hey There! ════════════════════════╗ ⚡Vaibhav Vikas Ranjan
 ║ I'm an AI Engineer & Agentic Systems Builder               ║ ┣━━ 🔭 Agentic AI & LLM Systems
 ║                                                            ║ ┃ ┣━━ ⭐ Multi-Agent Orchestration
 ║ My areas of interest are Agentic AI, LLMs, RAG, MCP,       ║ ┃ ┣━━ ⭐ RAG, MCP, LLM Evaluation
