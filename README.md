@@ -26,7 +26,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,pandas,sklearn,opencv,fastapi,postgres,docker,kafka,git,github&perline=7)](https://skillicons.dev)
 
-**Also working with:** LangChain • LangGraph • MCP • Agno • Chainlit • Streamlit • ChromaDB • Hugging Face • Tableau • NumPy • Matplotlib
+**Also working with:** `LangChain` `LangGraph` `MCP` `Agno` `Chainlit` `Streamlit` `ChromaDB` `Hugging Face` `Tableau` `NumPy` `Matplotlib`
 
 <br clear="right"/>
 
